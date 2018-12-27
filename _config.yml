@@ -1,10 +1,10 @@
 # Site settings
-title: 忆尘 Blog
+title: MiYa Blog
 SEOTitle: MiYa | BY Blog
 header-img: img/post-bg-desk.jpg
 email: #
 description: "I sound my barbaric yawp over the rooftops of the world."
-keyword: "BY, BY Blog, MiYa, topkill, top"
+keyword: "BY, BY Blog, MiYa, topkill, top, 忆尘"
 url: "http://topkiller.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
