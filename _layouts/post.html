@@ -40,7 +40,11 @@ layout: default
                     {% comment %} if page.subtitle {% endcomment %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% comment %} endif {% endcomment %}
-                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                    {% if site.image %}
+                    <img class="author-thumb" src="{{ site.baseurl }}{{ site.image }}" alt="Author image" nopin="nopin" />
+                    {% endif %}
+                    <!--<span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>-->
+                    <span class="meta"> {{ page.date | date: "%B %-d, %Y" }}</span>
                 </div>
             </div>
         </div>
@@ -114,7 +118,7 @@ layout: default
                 <!-- disqus 评论框 end -->
                 {% endif %}
 
-            </div>  
+            </div>
 
     <!-- Side Catalog Container -->
         {% if page.catalog %}
@@ -146,7 +150,7 @@ layout: default
                     <h5><a href="/tags/">FEATURED TAGS</a></h5>
                     <div class="tags">
         				{% for tag in site.tags %}
-                            {% if tag[1].size > {{site.featured-condition-size}} %}
+                            {% if tag[1].size > site.featured-condition-size %}
                 				<a href="/tags/#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">
                                     {{ tag[0] }}
                                 </a>

@@ -1,78 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14a6a5ac-f993-4737-a885-0a45b6c5e81c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="14a6a5ac-f993-4737-a885-0a45b6c5e81c" name="Default" comment="细节更新1">
+      <change afterPath="$PROJECT_DIR$/css/screen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-01-06-ReactiveCocoa-进阶.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-10-10-iOS-手势与变形.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-10-18-Xcode-Debug-大全.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-10-26-BYPhoneNumTF.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-10-26-JSON-转模型-For-YYModel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-10-Objective-C Runtime详解.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-15-iOS噪音计模型.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-18-Objective-C-Runtime-基本使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-28-Objective-C-RunLoop.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-01-快速添加圆角和描边.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-07-忽略-Xcode8-中的注释警告⚠️.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-13-定时器你真的会使用吗？.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-21-Objective-C-Category.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-26-ReactiveCocoa-基础.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-04-Hello-2017.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-06-快速搭建个人博客.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-14-随便聊聊.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-15-Git指令整理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-15-Mac-文本转音频.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-16-Git-代码回滚.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-22-Mac-文件的隐藏与显示.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-22-使用-.gitignore-忽略-git-仓库中的文件.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-01-Xcode-控制台输出中文.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-06-Swift-代理模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-08-CocoaPods公有仓库的创建.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-10-CocoaPods私有仓库的创建.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-17-Mac终端(zsh)下用代码编辑器打开文件或目录.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-23-AsyncDisplayKit-2.0-教程：入门「译」.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-30-Swift 3.1-的新变化「译」.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-04-07-强化-Swift-中的-print.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-04-13-CocoaPods-安装和使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-04-20-iOS自动打包.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-04-28-RVM-使用指南.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-03-Swift-的懒加载和计算型属性.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-04-R.swift-的使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-05-在-Swift-中使用-IBInspectable.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-06-19-快速配置zsh.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-04-Xcode9-无线调试功能.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-10-「体能训练理论」之功能性.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-10-「体能训练理论」之动力链.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-10-「体能训练理论」之金字塔.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-19-Swift的HMAC和SHA1加密.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-24-iTunes-Connect-构建版本不显示.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-26-利用-Debug-Memory-Graph-检测内测泄漏.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-09-11-Swift-4-新特性.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-04-GCD-在-Swift-中的用法.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-19-为博客添加-Gitalk-评论插件.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-26-从一道网易面试题浅谈-Tagged-Pointer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-2-9-Mac快速调出终端.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-3-07-文件目录树状(tree)显示.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-01-04-柔术最大的谎言「译」.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-05-05-Xcode命令行工具管理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-05-5分钟带你看完-WWDC-2018.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about-BY-gentle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/avatar-by.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-miui-ux.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-miui6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-27-welcome-to-jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-27-welcome-to-jekyll.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-28-VMware常见问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-28-VMware常见问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-28-路由器常见测试.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-28-路由器常见测试.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/icons/pwa_icon_128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/icons/pwa_icon_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/manifest.json" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -88,17 +28,90 @@
     <favorites_list name="Topkiller.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="342">
+              <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="5" column="117" selection-start-line="5" selection-start-column="117" selection-end-line="5" selection-end-column="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="39" column="98" selection-start-line="39" selection-start-column="98" selection-end-line="39" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keynote.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/keynote.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>theme</find>
+      <find>author-thumb</find>
+      <find>Posted</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -107,6 +120,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_layouts/keynote.html" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-27-welcome-to-jekyll.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-28-路由器常见测试.md" />
+        <option value="$PROJECT_DIR$/404.html" />
+        <option value="$PROJECT_DIR$/css/screen.css" />
+        <option value="$PROJECT_DIR$/_layouts/page.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -122,8 +145,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="18" />
-    <option name="y" value="28" />
+    <option name="x" value="15" />
+    <option name="y" value="30" />
     <option name="width" value="1400" />
     <option name="height" value="833" />
   </component>
@@ -138,6 +161,26 @@
             <path>
               <item name="Topkiller.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Topkiller.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Topkiller.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Topkiller.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Topkiller.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Topkiller.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Topkiller.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Topkiller.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Topkiller.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Topkiller.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -154,6 +197,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,11 +226,14 @@
       <option name="presentableId" value="Default" />
       <updated>1545983900933</updated>
       <workItem from="1545983902096" duration="1327000" />
+      <workItem from="1546075053553" duration="1599000" />
+      <workItem from="1546400061929" duration="6457000" />
+      <workItem from="1546849511670" duration="917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1327000" />
+    <option name="totallyTimeSpent" value="11881000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -194,39 +245,227 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="28" width="1400" height="833" extended-state="0" />
-    <editor active="true" />
+    <frame x="15" y="30" width="1400" height="833" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.2538071" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32806325" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32938075" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32744566" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32806325" />
       <window_info id="Structure" order="1" sideWeight="0.50065875" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" sideWeight="0.5019608" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" sideWeight="0.5019608" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="细节更新1" />
+    <option name="LAST_COMMIT_MESSAGE" value="细节更新1" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="98" lean-forward="true" selection-start-line="39" selection-start-column="98" selection-end-line="39" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/keynote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="49" lean-forward="true" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="1095">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7365">
+          <caret line="491" column="21" selection-start-line="491" selection-start-column="21" selection-end-line="491" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="33" lean-forward="true" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7365">
+          <caret line="491" column="21" selection-start-line="491" selection-start-column="21" selection-end-line="491" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="33" lean-forward="true" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/hux-blog.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feed.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/box.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/avatar_m.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecov.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2182" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1128" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4535" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/404/index.html" />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -258,10 +497,125 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/offline.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3680" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4847">
+          <caret line="507" column="21" selection-start-line="507" selection-start-column="21" selection-end-line="507" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/keynote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-28-VMware常见问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-28-路由器常见测试.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-27-welcome-to-jekyll.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="39" column="98" selection-start-line="39" selection-start-column="98" selection-end-line="39" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="5" column="117" selection-start-line="5" selection-start-column="117" selection-end-line="5" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

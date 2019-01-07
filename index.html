@@ -18,8 +18,12 @@ description: "Do one thing at a time, and do well."
             {{ post.content | strip_html | truncate:200 }}
         </div>
     </a>
+    {% if site.image %}
+    <img class="author-thumb" src="{{ site.baseurl }}{{ site.image }}" alt="Author image" nopin="nopin" />
+    {% endif %}
     <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+
+        {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} | {{ post.date | date: "%B %-d, %Y" }}
     </p>
 </div>
 <hr>
